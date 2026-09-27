@@ -1,0 +1,22 @@
+{
+  "name": "discord-guard-plugin",
+  "version": "1.0.0",
+  "description": "An anti-hacker and anti-link protection plugin for Discord servers.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "anti-hack",
+    "security",
+    "discord.js"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
