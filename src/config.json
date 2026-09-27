@@ -1,0 +1,5 @@
+{
+  "prefix": "!",
+  "protected_roles": ["ADMIN_ROLE_ID_HERE"],
+  "log_channel_id": "LOG_CHANNEL_ID_HERE"
+}
