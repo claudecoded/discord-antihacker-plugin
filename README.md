@@ -1,5 +1,7 @@
 # Discord Guard Plugin
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/f5be555d-0935-4f73-8e4a-f870aafd4aec" />
+
 A robust anti-hacker and anti-raid plugin built with `discord.js` v14 to secure Discord communities from malicious actions, rogue staff, and phishing links.
 
 ## Features
